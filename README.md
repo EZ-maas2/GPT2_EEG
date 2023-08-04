@@ -7,7 +7,6 @@ Guide through data files:
  * BAStokenList is created in matrixCreation and used in posStory2 for alignment (specifically, it's filled out by utilities.BAS)
 
 ## Workflow:
----------
 
 ### Step 0(A) - Time and Phonemes - :
   Sound file -> BAS file;

@@ -6,7 +6,7 @@ Guide through data files:
  * BAStokenList, final_posList and pos_and_time_story are created in the matrixCreation.py file
  * BAStokenList is created in matrixCreation and used in posStory2 for alignment (specifically, it's filled out by utilities.BAS)
 
-##Workflow:
+## Workflow:
 ---------
 
 ### Step 0(A) - Time and Phonemes - :
